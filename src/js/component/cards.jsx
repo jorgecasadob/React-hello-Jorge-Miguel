@@ -8,7 +8,7 @@ const Card = () => {
             <p className="card-text">
                 Hello world
             </p>
-            <a href="https://en.wikipedia.org/wiki/Bob_Dylan" className="btn btn-primary">
+            <a href="" className="btn btn-primary">
                 Go to wikipedia
             </a>
         </div>
