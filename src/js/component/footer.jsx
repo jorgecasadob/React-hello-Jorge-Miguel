@@ -1,3 +1,5 @@
+import React from "react";
+
 const Footer = () => {
     return <div className="card">
     <div className="card-header">
