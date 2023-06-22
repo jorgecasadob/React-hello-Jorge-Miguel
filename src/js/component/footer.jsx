@@ -1,8 +1,8 @@
 import React from "react";
 
 const Footer = () => {
-    return 
-    (<div className="card">
+  return
+  (<div className="card">
     <div className="card-header">
       Featured
     </div>
@@ -12,7 +12,6 @@ const Footer = () => {
       <a href="#" className="btn btn-primary">Go somewhere</a>
     </div>
   </div>);
-  };
-  export default Footer;
+};
+export default Footer;
 
-  
