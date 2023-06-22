@@ -4,7 +4,6 @@ import Jumbotron from "./Jumbotron";
 import Card from "./Card";
 import Footer from "./Footer";
 
-//create your first component
 const Home = () => {
 	return (
 		<div className="text-center">
@@ -15,5 +14,4 @@ const Home = () => {
 		</div>
 	);
 };
-
 export default Home;

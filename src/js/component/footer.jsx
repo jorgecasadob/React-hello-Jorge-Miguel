@@ -1,7 +1,8 @@
 import React from "react";
 
 const Footer = () => {
-    return <div className="card">
+    return 
+    (<div className="card">
     <div className="card-header">
       Featured
     </div>
@@ -10,7 +11,7 @@ const Footer = () => {
       <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
       <a href="#" className="btn btn-primary">Go somewhere</a>
     </div>
-  </div>;
+  </div>);
   };
   export default Footer;
 
