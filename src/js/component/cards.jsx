@@ -1,6 +1,6 @@
 import React from "react";
 
-const BootstrapCard = () => 
+const Card = () => 
 {
     return <div className="card m-5">
         <img alt="Card image cap" className="card-img-top" src=""/>
